@@ -1,2 +1,2 @@
 # PyTrade-Research
-A progression of algorithmic trading strategies from rudimentary to complex overtime
+This is an indepedent research project where I implement algorithmic trading strategies from simple to complex over a range of different strategies. 
