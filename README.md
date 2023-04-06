@@ -1,2 +1,2 @@
 # PyTrade-Research
-This is an indepedent research project where I implement algorithmic trading strategies from simple to complex over a range of different strategies. 
+A review, implementation, and testing of algorithmic swing trading strategies for stocks, in addition to a backtesting service.
