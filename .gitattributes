@@ -1,0 +1,5 @@
+app/server.py linguist-detectable
+app/client.py linguist-detectable
+app/GUI.py linguist-detectable
+research/maverage.ipynb linguist-vendored
+research/mreversion.ipynb linguist-vendored
